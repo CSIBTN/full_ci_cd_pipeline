@@ -1,1 +1,3 @@
-# full_ci_cd_pipeline
+# maven-project
+
+Simple Maven Project
